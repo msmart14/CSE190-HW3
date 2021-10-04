@@ -1,83 +1,86 @@
-Person,Song
-Adrian,Basket Case
-Adrian,Bodak Yellow
-Adrian,Bohemian Rhapsody
-Adrian,Enter Sandman
-Adrian,Smells Like Teen Spirit
-Alex,bad guy
-Alex,bury a friend
-Alex,ocean eyes
-Alex,Sign of the Times
-Alex,Smells Like Teen Spirit
-Anna,bad guy
-Anna,Bodak Yellow
-Anna,bury a friend
-Anna,I Like It
-Anna,Love On The Brain
-Anna,Shape of You
-Anna,Smells Like Teen Spirit
-Anna,"thank u, next"
-Ariel,bad guy
-Ariel,drivers license
-Ariel,ocean eyes
-Ariel,Old Town Road
-Ariel,Watermelon Sugar
-Brianna,bad guy
-Brianna,drivers license
-Brianna,ocean eyes
-Brianna,Sign of the Times
-Brianna,Watermelon Sugar
-Casey,Bad Romance
-Casey,Bohemian Rhapsody
-Casey,Mamma Mia
-Casey,Oops!...I Did It Again
-Casey,Toxic
-Emily,Gimme More
-Emily,Mamma Mia
-Emily,Oops!...I Did It Again
-Emily,"thank u, next"
-Emily,Toxic
-Gabriel,bad guy
-Gabriel,bury a friend
-Gabriel,Here Comes The Sun
-Gabriel,ocean eyes
-Gabriel,Shape of You
-Gabriel,Smells Like Teen Spirit
-Gabriel,Toxic
-Gabriel,While My Guitar Gently Weeps
-Isaac,American Idiot
-Isaac,Basket Case
-Isaac,I Write Sins Not Tragedies
-Isaac,ocean eyes
-Isaac,Smells Like Teen Spirit
-Jacob,Bodak Yellow
-Jacob,Bohemian Rhapsody
-Jacob,bury a friend
-Jacob,Old Town Road
-Jessica,Bodak Yellow
-Jessica,cardigan
-Jessica,I Like It
-Jessica,Juice
-Jessica,Make Me Feel
-Jessica,Watermelon Sugar
-John,1950
-John,Bad At Love
-John,Make Me Feel
-John,Old Town Road
-John,Watermelon Sugar
-Max,Bad Romance
-Max,Gimme More
-Max,Love On The Brain
-Max,Oops!...I Did It Again
-Max,"thank u, next"
-Riley,1950
-Riley,Bad At Love
-Riley,cardigan
-Riley,I Write Sins Not Tragedies
-Riley,Juice
-Ryan,American Idiot
-Ryan,Bohemian Rhapsody
-Ryan,Enter Sandman
-Ryan,Here Comes The Sun
-Ryan,I Write Sins Not Tragedies
-Ryan,While My Guitar Gently Weeps
+Person,SongID
+Adrian,5
+Adrian,6
+Adrian,7
+Adrian,11
+Adrian,13
+Adrian,25
+Alex,3
+Alex,8
+Alex,20
+Alex,24
+Alex,25
+Anna,3
+Anna,6
+Anna,8
+Anna,14
+Anna,17
+Anna,23
+Anna,25
+Anna,26
+Ariel,3
+Ariel,10
+Ariel,20
+Ariel,21
+Ariel,28
+Brianna,3
+Brianna,10
+Brianna,20
+Brianna,24
+Brianna,28
+Casey,4
+Casey,7
+Casey,19
+Casey,22
+Casey,27
+Emily,12
+Emily,19
+Emily,22
+Emily,26
+Emily,27
+Gabriel,3
+Gabriel,8
+Gabriel,13
+Gabriel,20
+Gabriel,23
+Gabriel,25
+Gabriel,27
+Gabriel,29
+Isaac,1
+Isaac,5
+Isaac,15
+Isaac,20
+Isaac,25
+Jacob,6
+Jacob,7
+Jacob,8
+Jacob,21
+Jessica,2
+Jessica,6
+Jessica,9
+Jessica,14
+Jessica,16
+Jessica,18
+Jessica,28
+John,0
+John,2
+John,18
+John,21
+John,28
+Max,4
+Max,12
+Max,17
+Max,22
+Max,26
+Riley,0
+Riley,2
+Riley,9
+Riley,15
+Riley,16
+Ryan,1
+Ryan,7
+Ryan,9
+Ryan,11
+Ryan,13
+Ryan,15
+Ryan,29

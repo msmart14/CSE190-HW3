@@ -1,31 +1,31 @@
-Title,Danceability,Valence,Energy
-1950,0.6,0.269,0.535
-American Idiot,0.38,0.769,0.988
-Bad At Love,0.675,0.612,0.751
-bad guy,0.701,0.562,0.425
-Bad Romance,0.696,0.714,0.921
-Basket Case,0.442,0.781,0.943
-Bodak Yellow,0.926,0.485,0.703
-Bohemian Rhapsody,0.397,0.21,0.386
-bury a friend,0.905,0.196,0.389
-cardigan,0.613,0.551,0.581
-drivers license,0.561,0.137,0.431
-Enter Sandman,0.579,0.635,0.824
-Gimme More,0.788,0.382,0.844
-Here Comes The Sun,0.557,0.394,0.54
-I Like It,0.816,0.65,0.726
-I Write Sins Not Tragedies,0.569,0.609,0.83
-Juice,0.767,0.843,0.889
-Love On The Brain,0.509,0.378,0.637
-Make Me Feel,0.859,0.697,0.413
-Mamma Mia,0.749,0.827,0.748
-ocean eyes,0.511,0.169,0.363
-Old Town Road,0.878,0.639,0.619
-Oops!...I Did It Again,0.751,0.894,0.834
-Shape of You,0.825,0.931,0.652
-Sign of the Times,0.516,0.222,0.595
-Smells Like Teen Spirit,0.502,0.72,0.912
-"thank u, next",0.717,0.412,0.653
-Toxic,0.774,0.924,0.838
-Watermelon Sugar,0.548,0.557,0.816
-While My Guitar Gently Weeps,0.453,0.702,0.654
+SongID,Title,Artist,Genre,Danceability,Valence,Energy
+0,1950,King Princess,Pop,0.6,0.269,0.535
+1,American Idiot,Green Day,Rock,0.38,0.769,0.988
+2,Bad At Love,Halsey,Pop,0.675,0.612,0.751
+3,bad guy,Billie Eilish,Pop,0.701,0.562,0.425
+4,Bad Romance,Lady Gaga,Pop,0.696,0.714,0.921
+5,Basket Case,Green Day,Rock,0.442,0.781,0.943
+6,Bodak Yellow,Cardi B,Hip-Hop,0.926,0.485,0.703
+7,Bohemian Rhapsody,Queen,Rock,0.397,0.21,0.386
+8,bury a friend,Billie Eilish,Pop,0.905,0.196,0.389
+9,cardigan,Taylor Swift,Pop,0.613,0.551,0.581
+10,drivers license,Olivia Rodrigo,Pop,0.561,0.137,0.431
+11,Enter Sandman,Metallica,Rock,0.579,0.635,0.824
+12,Gimme More,Britney Spears,Pop,0.788,0.382,0.844
+13,Here Comes The Sun,The Beatles,Rock,0.557,0.394,0.54
+14,I Like It,Cardi B,Hip-Hop,0.816,0.65,0.726
+15,I Write Sins Not Tragedies,Panic! At The Disco,Rock,0.569,0.609,0.83
+16,Juice,Lizzo,Hip-Hop,0.767,0.843,0.889
+17,Love On The Brain,Rihanna,Pop,0.509,0.378,0.637
+18,Make Me Feel,Janelle Monáe,R&B,0.859,0.697,0.413
+19,Mamma Mia,ABBA,Pop,0.749,0.827,0.748
+20,ocean eyes,Billie Eilish,Pop,0.511,0.169,0.363
+21,Old Town Road,Lil Nas X,Country,0.878,0.639,0.619
+22,Oops!...I Did It Again,Britney Spears,Pop,0.751,0.894,0.834
+23,Shape of You,Ed Sheeran,Pop,0.825,0.931,0.652
+24,Sign of the Times,Harry Styles,Pop,0.516,0.222,0.595
+25,Smells Like Teen Spirit,Nirvana,Rock,0.502,0.72,0.912
+26,"thank u, next",Ariana Grande,Pop,0.717,0.412,0.653
+27,Toxic,Britney Spears,Pop,0.774,0.924,0.838
+28,Watermelon Sugar,Harry Styles,Pop,0.548,0.557,0.816
+29,While My Guitar Gently Weeps,The Beatles,Rock,0.453,0.702,0.654
